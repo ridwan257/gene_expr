@@ -1,5 +1,5 @@
 
-setwd('/Users/ridwan204/Desktop/micro-array/gse149507')
+# setwd('/Users/ridwan204/Desktop/micro-array/gse149507')
 
 library(GEOquery)
 library(tibble)
